@@ -1,6 +1,6 @@
-# Go Trip
+# tripo
 
-This project link is in there [click here](https://go-trip-fb143.web.app).
+This project link is in there [click here](https://tour-7500f.web.app/home).
 
 ## Importent Notes
 * Features:html,css,javascript,react-js,bootstrap,react router,firebase,mongoDb.
